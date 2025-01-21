@@ -12,6 +12,26 @@ A deep learning model trained on the **CIFAR-10 dataset** using **TensorFlow & K
 ```bash
 pip install -r requirements.txt
 
+<br>
+<br>
+
+## Directory Structure
+<br>
+CIFAR10-Classifier/
+│── models/
+│   ├── model_cifar10.py         # Model architecture
+│── utils/
+│   ├── utils.py                 # Helper functions (data loading, visualization)
+│── notebooks/
+│   ├── debug.ipynb              # Jupyter notebook for evaluation
+│── scripts/
+│   ├── train.py                 # Model training
+│── data/
+│   ├── cifar-10-data/           # Optional: store dataset here if needed
+│── README.md                    # Project documentation
+│── requirements.txt              # Dependencies (TensorFlow, NumPy, etc.)
+│── .gitignore                    # Files to ignore in GitHub
+│── LICENSE                       # Open-source license (MIT recommended)
 
 
 
