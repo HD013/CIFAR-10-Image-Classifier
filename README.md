@@ -20,7 +20,9 @@ pip install -r requirements.txt
 CIFAR10-Classifier/
 <br>
 │── models/
+<br>
 │   ├── model_cifar10.py         # Model architecture
+<br>
 │── utils/
 │   ├── utils.py                 # Helper functions (data loading, visualization)
 │── notebooks/
