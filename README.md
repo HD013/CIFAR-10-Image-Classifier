@@ -24,17 +24,29 @@ CIFAR10-Classifier/
 │   ├── model_cifar10.py         # Model architecture
 <br>
 │── utils/
+<br>
 │   ├── utils.py                 # Helper functions (data loading, visualization)
+<br>
 │── notebooks/
-│   ├── debug.ipynb              # Jupyter notebook for evaluation
+<br>
+│   ├── debug.ipynb              # Jupyter notebook for debug, evaluation
+<br>
 │── scripts/
+<br>
 │   ├── train.py                 # Model training
+<br>
 │── data/
-│   ├── cifar-10-data/           # Optional: store dataset here if needed
+<br>
 │── README.md                    # Project documentation
-│── requirements.txt              # Dependencies (TensorFlow, NumPy, etc.)
-│── .gitignore                    # Files to ignore in GitHub
+<br>
+│── requirements.txt              # Dependencies (Python,TensorFlow, NumPy)
+<br>
+│── .gitignore                   
+<br>
 │── LICENSE                       # Open-source license (MIT)
+
+<br>
+<br>
 
 
 
