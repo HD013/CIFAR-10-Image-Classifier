@@ -31,7 +31,7 @@ CIFAR10-Classifier/
 │── README.md                    # Project documentation
 │── requirements.txt              # Dependencies (TensorFlow, NumPy, etc.)
 │── .gitignore                    # Files to ignore in GitHub
-│── LICENSE                       # Open-source license (MIT recommended)
+│── LICENSE                       # Open-source license (MIT)
 
 
 
