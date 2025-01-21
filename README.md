@@ -2,7 +2,7 @@
 A deep learning model trained on the **CIFAR-10 dataset** using **TensorFlow & Keras**.
 
 ## 📌 Features
-✔ Trained on **50,000 CIFAR-10 images**  
+✔ Trained on **60,000 CIFAR-10 images**  
 ✔ Uses **CNN with Batch Normalization, Dropout, and Swish Activation**  
 ✔ **Modularized architecture** for scalability  
 ✔ Supports **training on GPU/cloud environments**  
@@ -18,6 +18,7 @@ pip install -r requirements.txt
 ## Directory Structure
 <br>
 CIFAR10-Classifier/
+<br>
 │── models/
 │   ├── model_cifar10.py         # Model architecture
 │── utils/
