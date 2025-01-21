@@ -11,7 +11,7 @@ A deep learning model trained on the **CIFAR-10 dataset** using **TensorFlow & K
 ☝️ Install dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 <br>
 <br>
 
